@@ -1,0 +1,9 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "si/.ngleAttributePerLine": true,
+  "bracketSameLine": false,
+  "endOfLine": "lf",
+  "trailingComma": "none",
+  "arrowParens": "avoid"
+}

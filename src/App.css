@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "pre-regular";
+  src: url("../src/assets/fonts/Pretendard-Regular.ttf");
+}
+
+* {
+  font-family: "pre-regular";
+  margin: 0;
+  padding: 0;
+}
